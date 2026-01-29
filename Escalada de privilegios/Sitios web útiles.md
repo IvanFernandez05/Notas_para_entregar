@@ -1,0 +1,4 @@
+- https://github.com/RoqueNight/Linux-Privilege-Escalation-Basics
+- https://gtfobins.org/
+- [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester)
+- [https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html](https://book.hacktricks.wiki/en/linux-hardening/privilege-escalation/index.html)
