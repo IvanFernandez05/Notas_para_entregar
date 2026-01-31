@@ -22,3 +22,16 @@ Exploits de kernel famosos:
 |Dirty Pipe|5.8+|CVE-2022-0847|
 |PwnKit|Polkit (2009-2022)|CVE-2021-4034|
 
+
+Lanzamos exploit-suggester, el linpeas lo lanza también.
+
+https://github.com/The-Z-Labs/linux-exploit-suggester/blob/master/linux-exploit-suggester.sh
+
+En el caso de que sea archivo.c
+
+```bash
+gcc script.c -o script
+```
+
+
+
